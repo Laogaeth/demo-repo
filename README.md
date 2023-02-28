@@ -6,4 +6,6 @@ Testing out the crash course
 
 Going along the tutorial
 
-### Testing 2
+### Local Development
+
+1. Open index.html in your brwoser
